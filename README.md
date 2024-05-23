@@ -48,14 +48,5 @@ AI Form Builder is a powerful and user-friendly application that allows you to c
     NEXT_PUBLIC_BASE_URL=
     ```
 
-## Preview
-https://github.com/harshxraj/ai-form-builder/assets/128404446/bc419920-edcb-4aa6-baa2-79fc2e4c360b
-
-## Dashboard
-![Screenshot 2024-03-17 181850](https://github.com/harshxraj/ai-form-builder/assets/128404446/5b384e5a-6cc6-4120-945c-b6471a9717f0)
-
-
-## Results Page
-![Screenshot 2024-03-17 183821](https://github.com/harshxraj/ai-form-builder/assets/128404446/14e8492c-07e4-4a8d-a82e-18c5df1c0d86)
 
 
