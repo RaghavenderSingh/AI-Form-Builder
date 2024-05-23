@@ -18,9 +18,9 @@ AI Form Builder is a powerful and user-friendly application that allows you to c
 - **Shadcn UI**: A UI framework for building beautiful, responsive web interfaces.
 - **Gemini AI API**: An API for integrating artificial intelligence capabilities into applications.
 - **Drizzle ORM**: ORM used for object-relational mapping, simplifying database interactions and management.
-- **PostgreSQ**L: A powerful, open-source relational database system.
-- **DaisyUI:**: A lightweight utility-first CSS component library for Tailwind CSS.
-- 
+- **PostgreSQL**: A powerful, open-source relational database system.
+- **DaisyUI:** A lightweight utility-first CSS component library for Tailwind CSS.
+  
 
 ### Get Started
 1. **Clone the repository:**
